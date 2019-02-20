@@ -1,0 +1,14 @@
+{
+  "name": "jiggler",
+  "version": "1.0.0",
+  "description": "NodeJS Mouse jiggler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
